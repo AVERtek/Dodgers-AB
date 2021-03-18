@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>GEAR UP:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"</b><b> Dodger Fan Gear Here</b></a>
   <br><br> 
-  <b>2021 SCHEDULE:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"</b><b> Catch A Game</b></a>
+  <b>CATCH A GAME:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"</b><b> 2021 Schedule</b></a>
   <br><br>
   <b>BUY TICKETS:</b><a href="https://www.mlb.com/dodgers/tickets" onclick="getOutboundLink('https://www.mlb.com/dodgers/tickets'); return false;"</b><b> Quick & Easy</b></a>
   <br><br>
