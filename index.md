@@ -19,7 +19,9 @@
 
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
- <script>
+  
+  
+  <script>
       function Sync(selector, audioSelector) {
         var modelViewer = document.querySelector(selector);
         var sound = document.querySelector(audioSelector);
