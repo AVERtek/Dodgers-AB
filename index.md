@@ -1,5 +1,5 @@
 <img src="images/Dodgers 1.jfif" width=200>
-### Join Dodger's "7th Inning Stretch" with Vin Scully; <!-- Loads <model-viewer> for old browsers like IE11: -->
+### Join The Dancing Dodger Fan's "7th Inning Stretch"; <!-- Loads <model-viewer> for old browsers like IE11: -->
 ### Use Mobile; Press AR, Dance Along, Share Video! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
