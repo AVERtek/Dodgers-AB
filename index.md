@@ -126,7 +126,7 @@
 
    <script>
         window.addEventListener("load", () => {
-          Sync("#model-viewer", "#sound");
+          Sync("", "#sound");
         });
       </script>
    
