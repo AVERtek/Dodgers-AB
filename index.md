@@ -64,7 +64,7 @@
             });
         }
 
-         }
+   }
 
    function playNow() {
         var playRequest = document.querySelector("#overlay");
