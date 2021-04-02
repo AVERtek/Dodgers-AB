@@ -1,7 +1,7 @@
 <img src="images/Dodgers 1.jfif" width=200>
 ### Join The Dancing Dodger Fan's "7th Inning Stretch"; <!-- Loads <model-viewer> for old browsers like IE11: -->
 ### Use Mobile; Press AR, Dance Along, Share Video! <!-- Loads <model-viewer> for old browsers like IE11: -->
-<script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
+<script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
   <!-- The following libraries and polyfills are recommended to maximize browser support -->  
@@ -81,7 +81,7 @@
    </script>
 
 
-<model-viewer camera-controls camera-orbit="0deg 90deg 85%" bounds="tight" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" src="Models/scene.glb?sound=Sound/Dodger Dance.mp3" ar="" ar-modes="webxr scene-viewer quick-look" ios-src="Animated_baseball_player.usdz" alt="Dodgers AB" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 650px" exposure="0.75"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer src="Models/scene.glb?sound=Sound/Dodger Dance.mp3" camera-controls camera-orbit="0deg 90deg 85%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="webxr scene-viewer quick-look" ios-src="Animated_baseball_player.usdz" alt="Dodgers AB" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 650px" exposure="0.75"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
