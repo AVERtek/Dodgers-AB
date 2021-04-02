@@ -100,12 +100,12 @@
         
    </section>
 
-  /* <script>
+   <script>
         window.addEventListener("load", () => {
           Sync("#model-viewer", "#sound");
         });
       </script>
-   */
+   
 
 <script>
 /**
