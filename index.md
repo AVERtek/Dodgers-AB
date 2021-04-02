@@ -64,24 +64,6 @@
             });
         }
 
-   /*
-        // this was needed because modelViewer.currentTime does not update when paused
-        // https://github.com/google/model-viewer/issues/1113
-          function enforceTime() {
-            if (modelViewer === undefined)
-            modelViewer = document.querySelector(selector);
-
-   if (sound.paused) modelViewer.currentTime = sound.currentTime;
-
-   // need to enforce play
-           if (modelViewer.paused && typeof modelViewer.play === "function")
-              modelViewer.play();
-
-   requestAnimationFrame(enforceTime);
-           }
-
-   requestAnimationFrame(enforceTime);
-        */
          }
 
    function playNow() {
@@ -118,12 +100,12 @@
         
       </section>
 
-   <script>
+  /* <script>
         window.addEventListener("load", () => {
           Sync("#model-viewer", "#sound");
         });
       </script>
-   
+   */
 
 <script>
 /**
