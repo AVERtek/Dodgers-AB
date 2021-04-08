@@ -89,7 +89,7 @@
 <section class="attribution">
         <div>
           <span>
-            <h1>Dancing Dodger Fan</h1>
+            <h1>Dancing Dodgers Fan</h1>
             <span>
               <audio controls autoplay loop id="sound">
                 <source src="Sound/Dodger Dance.mp3"/>
