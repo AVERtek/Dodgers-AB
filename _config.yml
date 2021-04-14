@@ -1,9 +1,9 @@
 #title: AVERtek # your name photo (or website title) here
 logo1: "images/BAHAY-LOGO-leaf-green-gold.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h2><a href="https://contest.avertek.net/139549" onclick="getOutboundLink('https://contest.avertek.net/139549'); return false;"><b>ENTER FREE CONTEST!</h2></b></a> 
+  <h1><a href="https://contest.avertek.net/139549" onclick="getOutboundLink('https://contest.avertek.net/139549'); return false;"><b>ENTER FREE CONTEST!</h1></b></a> 
   <br><br>
-  <h2><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h2></a>
+  <h2><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
   <br><br> 
   <h3><b>CATCH A GAME:</h3></b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"</b><b> 2021 SCHEDULE</b></a>
   <br><br>
