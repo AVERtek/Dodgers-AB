@@ -1,6 +1,6 @@
 <img src="images/Dodgers 1.jfif" width=200>
-### JOIN THE DANCING DODGERS FAN "7th INNING STRETCH", <!-- Loads <model-viewer> for old browsers like IE11: -->
-### ON MOBILE; PRESS "AR"; DANCE ALONG; TAKE/SHARE VIDEO! <!-- Loads <model-viewer> for old browsers like IE11: -->
+### DANCE THE "7th INNING STRETCH", <!-- Loads <model-viewer> for old browsers like IE11: -->
+### ON MOBILE; PRESS "AR"; TAKE/SHARE VIDEO! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
