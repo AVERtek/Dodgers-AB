@@ -87,11 +87,11 @@
       👋 AR Click Here
   </button>
 </model-viewer>
-<p align="center">
+
 <section class="attribution">
         <div>
           <span>
-            <h2>Play Song</h2>
+            <h1 style="text-align: center;" markdown="1">Play Song</h1>
             <span>
               <audio controls autoplay loop id="sound">
                 <source src="Sound/Dodger Dance.mp3"/>
@@ -101,7 +101,7 @@
         </div>
         
    </section>
-</p>
+
    <script>
         window.addEventListener("load", () => {
           Sync("#model-viewer", "#sound");
