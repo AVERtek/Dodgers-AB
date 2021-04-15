@@ -88,8 +88,7 @@
   </button>
 </model-viewer>
             
-<p align="center">
-<section class="attribution">
+<p align="center"><section class="attribution">
         <div>
           <span>
             <h1 style="text-align: center;" markdown="1">Play Song</h1>
@@ -100,8 +99,7 @@
             ></span>
             </span>
          </div>
-   </section>
- </p>
+   </section></p>
    <script>
         window.addEventListener("load", () => {
           Sync("#model-viewer", "#sound");
