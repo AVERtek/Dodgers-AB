@@ -88,18 +88,20 @@
   </button>
 </model-viewer>
             
-<p align="center"><section class="attribution">
+<section class="attribution">
         <div>
           <span>
             <h1 style="text-align: center;" markdown="1">Play Song</h1>
+              <p align="center">
               <span>
               <audio controls autoplay loop id="sound">
                 <source src="Sound/Dodger Dance.mp3"/>
               </audio
-            ></span>
+            ></span> 
+             </p>
             </span>
          </div>
-   </section></p>
+   </section>
    <script>
         window.addEventListener("load", () => {
           Sync("#model-viewer", "#sound");
