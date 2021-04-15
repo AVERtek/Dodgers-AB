@@ -1,6 +1,6 @@
 <img src="images/Dodgers 1.jfif" width=200>
-### DANCE THE "7th INNING STRETCH", <!-- Loads <model-viewer> for old browsers like IE11: -->
-### ON MOBILE; PRESS "AR"; TAKE/SHARE VIDEO! <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h2 style="text-align: center;" markdown="1"> DANCE THE "7th INNING STRETCH",</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h2 style="text-align: center;" markdown="1"> ON MOBILE; PRESS "AR"; TAKE/SHARE VIDEO!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
@@ -137,5 +137,5 @@ var getOutboundLink = function(url) {
 
 ---
 
-### <a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek</a> 
+<h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek</h3></a> 
   <br><br>
