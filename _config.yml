@@ -2,7 +2,7 @@
 logo1: "images/BAHAY-LOGO-leaf-green-gold.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="color:#A28D5B;"><p style="text-align:center;"><b>MEANS HOME</h1></b></p>
-  <h1 style="text-align: center;" markdown="1"></b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> DODGERS GAME SCHEDULE</h1></b></a> 
+  <h2 style="text-align: center;" markdown="1"></b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> DODGERS GAME SCHEDULE</h2></b></a> 
   <br><br> 
   <h2 style="text-align: center;" markdown="1"><b>FANS:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
   <br><br> 
