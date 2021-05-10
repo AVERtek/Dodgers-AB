@@ -4,8 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h1 style="color:#A28D5B;"><p style="text-align:center;"><b>MEANS HOME</h1></b></p>
   <h2 style="text-align: center;" markdown="1"></b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"<b> DODGERS GAME SCHEDULE</h2></b></a> 
   <br><br> 
-  <h2 style="text-align: center;" markdown="1"><b>FANS:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"<b> GEAR UP</b><h/2></a>
-  <br><br> 
   <h2 style="text-align: center;" markdown="1"><b>AFFORDABLE</b><a href="https://alexanbahay.com/gallery/apartment-tours/" onclick="getOutboundLink('https://alexanbahay.com/gallery/apartment-tours/'); return false;"<b> LUXURY</b><h/2></a>
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>GUIDED TOUR</b><a href="https://youtu.be/F5zBN4X2BzM" onclick="getOutboundLink('https://youtu.be/F5zBN4X2BzM'); return false;"<b> WITH LOIDA</b></h2></a>
